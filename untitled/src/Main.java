@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("****Crie um programa que solicita ao usuário a insercao de dois numeros e, em seguida, realiza as operacoes aritmeticas basicas (soma, subtracao, multiplicacao e divisao) com esses numeros. Oresultado deve ser exibido na saída padrao****");
+
+        System.out.println("****CRIE UM PROGRAMA QUE SOLICITA AO USUAIRO A INSERCAO DE DOIS NUMEROS E, EM SEGUIDA, REALIZA AS OPERACOES ARITMETICAS BASICAS (SOMA, SUBTRACAO, MULTIPLICACAO E DIVISAO) COM ESSES NUMEROS. O RESULTADO DEVE SER EXIBIDO NA SAIDA PADRAO****");
 
 
         System.out.println("Insira um numero: ");
